@@ -1,22 +1,215 @@
-The Chrysler Building, the famous art deco New York skyscraper, will be sold for a small fraction of its previous sales price.
-The deal, first reported by The Real Deal, was for $150 million, according to a source familiar with the deal.
-Mubadala, an Abu Dhabi investment fund, purchased 90% of the building for $800 million in 2008.
-Real estate firm Tishman Speyer had owned the other 10%.
-The buyer is RFR Holding, a New York real estate company.
-Officials with Tishman and RFR did not immediately respond to a request for comments.
-It's unclear when the deal will close.
-The building sold fairly quickly after being publicly placed on the market only two months ago.
-The sale was handled by CBRE Group.
-The incentive to sell the building at such a huge loss was due to the soaring rent the owners pay to Cooper Union, a New York college, for the land under the building.
-The rent is rising from $7.75 million last year to $32.5 million this year to $41 million in 2028.
-Meantime, rents in the building itself are not rising nearly that fast.
-While the building is an iconic landmark in the New York skyline, it is competing against newer office towers with large floor-to-ceiling windows and all the modern amenities.
-Still the building is among the best known in the city, even to people who have never been to New York.
-It is famous for its triangle-shaped, vaulted windows worked into the stylized crown, along with its distinctive eagle gargoyles near the top.
-It has been featured prominently in many films, including Men in Black 3, Spider-Man, Armageddon, Two Weeks Notice and Independence Day.
-The previous sale took place just before the 2008 financial meltdown led to a plunge in real estate prices.
-Still there have been a number of high profile skyscrapers purchased for top dollar in recent years, including the Waldorf Astoria hotel, which Chinese firm Anbang Insurance purchased in 2016 for nearly $2 billion, and the Willis Tower in Chicago, which was formerly known as Sears Tower, once the world's tallest.
-Blackstone Group (BX) bought it for $1.3 billion 2015.
-The Chrysler Building was the headquarters of the American automaker until 1953, but it was named for and owned by Chrysler chief Walter Chrysler, not the company itself.
-Walter Chrysler had set out to build the tallest building in the world, a competition at that time with another Manhattan skyscraper under construction at 40 Wall Street at the south end of Manhattan. He kept secret the plans for the spire that would grace the top of the building, building it inside the structure and out of view of the public until 40 Wall Street was complete.
-Once the competitor could rise no higher, the spire of the Chrysler building was raised into view, giving it the title.
+Je n’aurais jamais pensé avoir un poste aussi rapidement chez Google au cours de ma carrière.
+En réalité, c’était davantage une opportunité qu’une décision.
+
+Un de mes collègues m’a parlé d’un stage que Google organise chaque année en été et m’a envoyé le lien Google Career. Il voulait postuler pour ce stage avec un autre ami et s’est dit que ça serait intéressant si on pouvait y participer tous les trois.
+
+Ce stage s’intitule : Summer Trainee Engineering Program, STEP 2019.
+Traduit de l’anglais : Programme de Stage d’Été en Ingénierie, 2019.
+
+Les conditions de participation étaient les suivantes :
+
+Qualifications minimales :
+
+Poursuit actuellement un baccalauréat en informatique ou dans un domaine d’études techniques connexes
+Expérience en programmation Java, C++ ou Python
+Capacité à travailler à temps plein du 1er juillet 2019 jusqu’à fin septembre 2019
+Qualifications privilégiées :
+
+Retourne en école après la fin du programme
+Expérience en programmation en dehors des cours universitaires
+Intérêt et capacité d’apprendre d’autres langages de code au besoin.
+Hormis une chose, c’était comme si cette offre avait été faite sur mesure pour moi. Je ne savais pas que Google offrait des stages pour les étudiants de 1ère-2ème année et j’ai été assez séduit par l’idée d’acquérir une expérience dans la plus grande entreprise du monde, avec probablement les meilleurs ingénieurs au monde.
+
+Le seul gros problème, c’était mon école. En fait, j’ai postulé à ce stage sans savoir si je pourrais le faire.
+
+J’étudie en France, à l’ETNA, l’Ecole des Technologies Numériques Avancées.
+Elle offre un cursus universitaire très exigeant avec de nombreux hackathons qui sont ici appelés “CodeCamps” où des entreprises viennent exposer leur sujet aux étudiants. Les étudiants travaillent de 9h00 à 23h42 (exactement) pendant 2 semaines sur ces sujets. Le problème, c’est que nous avons ces hackathons toutes les trois semaines, et qu’ils nous valident notre année.
+
+Ajouté au fait que nous avons un grand projet libre(sujet de notre choix) à faire et à présenter à la fin de l’année, quelques activités quand nous n’avons pas de hackathons et… un audit de transition numérique que nous devons fournir à une entreprise que nous devons trouver.
+
+Si nous ne validons pas TOUS les hackathons et TOUTES les activités/projets, nous sommes renvoyés de l’école. Un léger élément à prendre en compte.
+
+Mais ! J’ai tout de même postulé à cette offre Google. D’abord parce que je n’étais pas sûr d’être sélectionné pour le stage, et ensuite parce que je comptais sur la direction de mon école pour comprendre que c’est une opportunité incroyable.
+
+J’ai rempli le formulaire Google Career le 31 octobre 2018, y compris :
+— Mes informations principales
+— Mes expériences professionnelles
+— Mon école
+— Un CV
+— Une description (qu’il n’était pas obligé de remplir)
+
+Je me suis dit que je devais surprendre l’examinateur au cours de ma candidature, ou du moins lui poser un petit défi. Alors j’ai entré ce message :
+
+VTJVRE1RcGlBRHdCTkFjMEJUWlNZVk1JVUhBSE9sNVNWaVE9Cmdvb2dsZQpodHRwczovL2ZsYXZpZW4uYmVyd2ljay5mci9wcm9qZWN0cy9mbGJ3L3VuY3J5cHQ=
+
+C’est un format d’encodage de chaînes de caractères bien connu par les développeurs. Connu sous le nom de base64.
+
+Si vous décodez cette chaîne de caractères, elle affiche :
+
+U2UDMQpiADwBNAc0BTZSYVMIUHAHOl5SViQ=
+google
+https://flavien.berwick.fr/projects/flbw/uncrypt
+
+Ce message affiche une chaîne de caractères chiffrée, un mot de passe et un lien vers la page de déchiffrement d’un algorithme de chiffrement que j’ai créé.
+De cette façon, je fournissais à l’examinateur un exemple de projet personnel que j’ai réalisé.
+
+Lorsque vous décodez ce message, il indique : “Choose me.”
+
+J’ai pensé qu’il serait amusant de trouver ce genre de message (même si certains candidats l’ont probablement déjà fait). Ceci-dit, j’étais sérieux : Google, choisis-moi !
+
+A partir de cette date, je n’ai rien reçu de Google, pendant 2 mois. Pas d’email. Pas d’appel. Et un jour, le 6 janvier, je reçois un email : “Candidate questionnaire : Flavien Berwick”.
+
+Ils ont eu de mes nouvelles ! Super. Cet email décrivait en détail les étapes que je devais franchir pour être sélectionné.
+
+Une chose que j’ai remarqué et que j’ai vraiment apprécié dans la procédure de recrutement de Google : chaque message détaille très clairement ce que nous devons faire et ce à quoi nous devons nous attendre. Même lorsque j’ai parlé avec les intervieweurs, ils ont pris le temps de tout m’expliquer pour que je comprenne parfaitement ce que j’ai à faire.
+
+Voilà ce que contenais l’e-mail :
+
+Merci de votre intérêt pour un stage chez Google ! Remplissez soigneusement ce formulaire — c’est très important pour notre processus de demande !
+
+Étape 1 : Veuillez remplir ce questionnaire dès que possible. Ce formulaire est destiné aux stagiaires du Summer Trainee Engineering Program 2019 in EMEA. Incluez les domaines dans lesquels vous avez travaillé (projets/stages précédents, y compris les stages Google antérieurs, les recherches, etc.) ainsi que vos centres d’intérêt.
+
+{lien vers le formulaire}
+
+Étape 2 : Vos réponses et votre demande seront examinées par l’équipe de recrutement des stagiaires afin de confirmer votre admissibilité et que le stage STEP serait le programme qui vous convient avant de passer aux entretiens.
+
+Étape 3 : Si vous êtes sélectionné, l’étape suivante de la candidature consiste à réaliser des entretiens techniques avec des ingénieurs de Google. Le travail réalisé lors des entretiens est examiné par les comités d’embauche des stagiaires afin de déterminer qui peut procéder à la prochaine étape.
+
+Étape 4 : C’est à cette étape que nous cherchons à vous faire matcher à une équipe en fonction de vos compétences, de votre expérience et de vos intérêts. Il s’agit de s’entretenir avec des équipes travaillant chez Google lors d’un entretien de “placement”, afin d’établir un intérêt mutuel.
+
+Étape 5 : Les candidats reçoivent une offre une fois qu’un match a été trouvée.
+
+Donc j’ai rempli le formulaire. Très intéressant, avec des questions modernes qui donnent l’impression que Google se concentre vraiment sur nos compétences et nos préférences que ce soit à la fois à propos de notre parcours scolaire, ou de notre parcours personnel.
+
+J’ai écrit dans ce formulaire que j’adore le projet Google Glass et que j’aimerais beaucoup pouvoir travailler dessus. J’ai parlé de beaucoup d’autres services Google en disant que j’adorerais travailler dans le domaine de l’intelligence artificielle, parce que je suis passionné, et parce que j’avais déjà une expérience sur ces technos.
+
+Seize jours plus tard, j’ai reçu un autre email :
+
+Bonjour Flavien,
+
+Nous vous remercions de l’intérêt que vous portez à notre programme STEP 2019. Je m’appelle Nathalie et je serai votre recruteur à partir de maintenant. Je suis heureux de vous faire savoir que nous pensons que vous pourriez être un excellent candidat pour notre programme de stage !
+
+L’étape suivante consiste à planifier deux entrevues techniques générales de 45 minutes sur Hangout.
+
+A partir de ce moment, je savais que je devais me donner à fond !
+
+Chez Google, vous avez un recruteur référent pour chaque étape de la procédure. Le recruteur a placé les deux entretiens techniques la semaine d’après.
+J’avais une semaine pour m’entraîner.
+
+Je me suis entraîné, chaque jour. Et je me souviens que j’ai parlé avec une personne très intéressante à un coworking, 6 jours avant l’entretien. Cette personne avait l’intention de travailler pour une grande entreprise de technologie en cyberdéfense : Palantir.
+
+Je lui ai dit que j’avais un entretien technique pour Google dans 6 jours et il m’a demandé :
+“OK, je vais t’entraîner sur un exercice de code. Sais-tu quelle est la complexité d’un code ?”
+
+Je n’avais pas entendu parler de “complexité de code” en 7 ans de développement logiciel.
+
+Alors il m’a expliqué. Et j’ai compris après un petit moment comment ça marche. Après avoir bien compris, il m’a simulé un entretien technique avec un exercice assez simple : le palindrome.
+
+Et la façon de traiter le sujet “à la manière de Google” était complètement différente de ce que j’ai appris à faire par moi-même ou à l’école. Et c’était très intéressant, parce que c’est une autre façon de penser pour que votre algorithme soit le plus efficace possible.
+
+Par exemple avec l’algorithme palindrome, qui prend un mot en paramètre et retourne vrai ou faux selon que ce mot est un palindrome ou non, j’ai dû écrire la fonction pour que la complexité soit O(n).
+
+Vous avez deux façons de résoudre ce problème : O(n²) ou O(n). La méthode de complexité O(n²) consiste souvent à faire “bruteforce” pour analyser toutes les lettres du mot et pour chaque lettre vous parcourez à nouveau chaque lettre du mot. C’est la façon la plus naturelle de le faire.
+
+Mais à la place, si vous définissez deux variables avec la position de la lettre, et que vous les déplacez ensemble au centre de votre mot, vous avez une complexité linéaire O(n) et votre code sera beaucoup plus efficace.
+
+Comme il s’agissait d’un entretien avec une complexité adaptée au programme STEP, ils ne m’ont finalement pas interrogé sur l’algorithme basé sur la complexité. Mais il y avait d’autres “structures de données” que j’ai dû implémenter, comme les hashtables ou la récursivité.
+
+J’ai continué à m’entraîner avec YouTube, avec des vidéos dont les titres étaient : “Google technical interview”, “Google coding problems” ou d’autres vidéos d’anciens ingénieurs logiciels qui ont travaillé chez Google. J’ai trouvé deux chaînes très intéressantes : TechLead et CS Dojo.
+
+Ensuite, j’ai parcouru quelques sites web comme CoderByte et LeetCode. Ils avaient quelques exercices de programmation intéressants, mais globalement, c’est une perte d’argent. J’ai trouvé que les exercices n’étaient pas vraiment liés à ceux que Google demande dans ses entretiens.
+
+Ainsi arriva le jour de mes deux entretiens. Le grand jour. Voici le format :
+— 45 minutes d’entretien
+— 5 minutes pendant lesquelles l’ingénieur se présente
+— 30 minutes pour réaliser la partie technique
+— 10 minutes pour se présenter et poser des questions
+
+J’ai trouvé le processus très clair et bien fait, de sorte que nous ne nous sentions pas mal à propos de cette entrevue. Et le fait que nous puissions poser des questions à l’ingénieur est pour moi très important : ça m’a donné une bonne idée de ce que ressentent les employés de Google. Et c’est positif.
+
+Pour revenir en détails à la partie technique, il vous faudra faire les exercices sur un Google Docs. J’ai trouvé l’idée étrange à première vue. Mais en réalité, c’est une idée géniale : on ne perd pas de temps à compiler. L’ingénieur qui réalise l’entretien ne veut pas qu’on écrive un code parfait, il veut seulement comprendre comment on résout le problème.
+
+Il faut donc parler en permanence avec l’ingénieur : tout d’abord, l’ingénieur vous donnera un algorithme à écrire, par exemple “comment déterminer si un mot donné est un palindrome”. Vous devez d’abord clarifier la question pour savoir quelle sera l’entrée de la fonction et ce qu’elle doit retourner.
+Vous devez poser des questions à l’ingénieur. Et avant même d’écrire du code, décrire comment vous allez résoudre le problème.
+
+Si l’ingénieur se sent perdu, il vous le dira. Ne vous inquiétez pas, dites-lui simplement que vous êtes bloqué à un certain moment et pourquoi vous l’êtes. Il trouvera un moyen de vous guider pour résoudre le problème. Gardez à l’esprit qu’il est là pour évaluer la façon dont vous envisagez le problème.
+
+Si vous résolvez le problème rapidement, vous aurez un deuxième problème à résoudre : vous devez résoudre autant de problèmes que possible. Mais si vous ne résolvez qu’un seul problème, c’est peut-être normal. Parce que le problème donné dépend de votre niveau de diplôme général.
+
+Après les entretiens, votre code écrit sur Google Docs est partagé avec les équipes Google intéressées par votre candidature.
+
+Comme les entretiens s’étaient bien passés, il était temps de parler de ce stage Google à mon école. J’ai demandé un rendez-vous à la directrice pédagogique de mon école par email, lui disant qu’il fallait que je lui parle de “quelque chose d’important à propos d’un stage”. Je suis resté vague, volontairement.
+
+Je devais la convaincre que ce stage était vraiment important. Non pas que le mot “Google” n’ait aucun effet waouh, mais mon école est particulière et il n’y avait pas de conclusion prévisible.
+
+“ J’ai reçu une opportunité de stage extrêmement intéressante. C’est pendant le printemps, de juillet à septembre. Dans une grande entreprise. C’est Google.
+
+Je sais que nous serons en formation. Est-ce que l’ETNA acceptera de me donner l’opportunité de réaliser ce stage ? “
+
+Ma directrice était plutôt favorable. En réalité, je pensais qu’il serait plus compliqué de les convaincre. Même avec tous les arguments que j’avais, nous devons valider chacun des modules/hackathons pour notre formation.
+
+La directrice m’a dit qu’il fallait voir si je pouvais faire le stage, sur le plan administratif, et qu’elle devait voir avec l’équipe comment organiser mes horaires.
+
+“Je vous recontacte dans deux semaines.”
+
+Pas de problème car je ne connaissais pas les résultats des entretiens Google à ce moment. J’ai pris un peu d’avance.
+
+Quelques jours plus tard, j’ai reçu un email m’informant que ma candidature serait transmise aux équipes de Google qui recherchent un stagiaire, accompagnée de mon CV et du formulaire soumis quelques jours auparavant et contenant mes “centres d’intérêt”.
+
+Environ deux semaines plus tard, j’ai reçu un email m’informant qu’une équipe voulait discuter avec moi. Le but de ces entretiens (via Hangout/Meets) est de voir s’il y a un match entre l’équipe et vous, le stagiaire, pour que les deux parties soient satisfaits de leur expérience chez Google. Vous devez écrire à votre recruteur après la fin de chaque session si l’équipe et leur mission vous correspond. Ce n’est pas un problème si vous refusez, vous recevrez une autre offre après quelques semaines.
+
+J’ai été un peu surpris du genre d’équipe qui voulait me rencontrer. Il était écrit que l’équipe faisait partie de Google Cloud à Zurich, en Suisse.
+Le fait est que j’ai insisté dans mon formulaire sur le fait que j’aurais fortement préféré aller à Paris, plutôt que dans une autre ville que j’avais coché. Parce que je n’avais même pas coché la Suisse !
+
+Paris, Londres, Dublin, Munich, mais pas Zurich !
+
+Mais le fait est surtout que j’ai décrit une volonté profonde de travailler sur les problèmes liés à l’intelligence artificielle et au back-end.
+
+L’entretien était très intéressant, mais les missions portaient en réalité sur les technologies front-end. Donc ça ne me correspondait pas vraiment.
+Je suis bien plus intéressé par le développement back-end.
+
+Après avoir refusé l’offre auprès du recruteur, je lui ai dit que j’étais surpris de la mission qui m’était proposée. Et lui ai demandé s’il y avait des missions disponibles liées à l’IA.
+
+Le recruteur m’a dit de mettre à jour mon formulaire pour l’orienter dans ce sens (alors que c’était très clair) et qu’il “craignait qu’il n’y ait pas de missions liées à l’IA”.
+
+J’ai donc attendu une autre offre plus axée sur le back-end. Même s’il n’y avait pas d’IA, ça serait quand même “une expérience Google”. Et je voulais davantage en savoir plus sur les méthodes de travail au sein de Google que sur les technologies, que tout le monde peut apprendre à tout moment.
+
+La directrice de mon école est revenue me voir à ce moment-là, me disant qu’elle avait travaillé avec l’équipe pédagogique pour organiser mes horaires. J’étais vraiment content parce que ça signifiait que je pourrai faire mon stage !
+
+MAIS ça ne serait pas si simple :
+
+“Vous devrez valider tous les modules pour ne pas avoir à faire de rattrapages avant votre stage.”
+“Vous devrez continuer de réaliser certains des hackathons, dans un délai arrangé.”
+Bien sûr, j’ai accepté l’arrangement.
+
+Après avoir attendu plusieurs semaines sans nouvelles du recruteur de Google, je lui ai envoyé un message lui demandant si ma candidature était toujours partagée. Il m’a dit que oui et m’a renseigné que la période n’était pas la plus active pour les recrutements.
+
+Au bout de deux semaines, j’ai reçu une deuxième offre.
+
+Et une fois de plus, c’était basé à Zurich… J’ai posé des questions et j’ai appris que Zurich concentre une très grande partie des stagiaires “tech”. Londres est davantage orientée pour les stagiaires en commerce et Paris pour les doctorants (PhD).
+
+Les deux hôtes (Google appelle les traditionnels maîtres de stage, des “hôtes”) m’ont demandé très clairement si Zurich était envisageable pour moi. Je leur ai dit que oui, si la mission m’intéressait. Surtout parce que l’école m’a demandé d’aller de préférence à Paris.
+
+J’ai finalement accepté cette offre après en avoir discuté avec mon école. L’équipe semblait géniale et la mission intéressante, avec un peu de back-end et un peu de front-end.
+
+L’équipe m’a aussi acceptée, alors le recruteur m’a dit après quelques jours qu’il m’adresserait les prochaines démarches.
+
+Ils m’ont d’abord demandé de valider mon identité (tout en ligne), programmé un appel avec le recruteur pour me parler du salaire, du “welcome pack” confortable, de comment commencer le stage, puis m’ont adressé de nombreux services gratuits pour que je puisse intégrer le plus sereinement Zurich.
+
+J’ai été impressionné. Google vous prend vraiment par la main pour que vous puissiez vous adapter parfaitement à votre nouvel emplacement. En partant des lieux que vous pouvez louer pour dormir, aux transports et à la gestion bancaire. Par exemple, un service proposait d’avancer gratuitement la caution jusqu’à la première paie (le 27 de chaque mois).
+
+Tout le processus de “ce que vous devez apporter le premier jour”, “ce que vous devez faire” etc… est très bien expliqué dans leurs documents.
+
+On a aussi accès à un groupe Facebook qui réunit tous les stagiaires de l’un des bureaux (Zurich par exemple). Où on peut poser des questions au staff et aux autres stagiaires.
+
+Finalement, ils m’ont envoyé le contrat que j’ai signé électroniquement. J’avais quelques questions et les recruteurs m’ont répondu très rapidement.
+
+Zurich est une ville très coûteuse. Les loyers vont de 1000CHF à +3000CHF par mois pour une chambre simple. Google a donc mis en place une plateforme où les stagiaires peuvent dire qu’ils cherchent un endroit où dormir (avec le coût du loyer qu’ils peuvent débourser) et les employés de Google peuvent déclarer pouvoir accueillir une personne dans leur maison pendant une période. C’est un très bon système !
+
+Comme les stages sont réalisés en duo, le recruteur m’a dit que faire une collocation était une possibilité. Comme le deuxième stagiaire a mis 3 semaines après moi pour être recruté, j’avais déjà prévu d’avoir une chambre ailleurs qu’en colocation. Je vais devoir travailler tard chaque jour et ça serait pénible pour mon colocataire si jamais j’en avais un.
+
+C’est la fin de cet article ! Je commence le 1er juillet. A cette occasion, j’écrirai probablement un deuxième article : “Mon premier jour chez Google”, et un article sur mon expérience globale à la fin de mon stage.
+
+En résumé, le processus d’embauche de Google est très bien fait. Et nous savons à chaque étape ce que nous devons faire, ce qui nous permet d’éviter les petites questions et d’accélérer le processus. Chaque recruteur est très réactif et conservent très bien toutes la magie qui entoure le fait de travailler chez Google.
+
+Je n’hésite pas une seconde à croire que ça sera une expérience incroyable, très enrichissante et qui va changer ma vie au quotidien, avec l’ouverture d’esprit de Google, et le plaisir d’au quotidien côtoyer une équipe d’experts extrêmement compétents.

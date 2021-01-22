@@ -1,10 +1,18 @@
 from summarizer import Summarizer
+from summarizer.coreference_handler import CoreferenceHandler
 import argparse
+
+
+sentence_handlers = {
+    "en": "en_core_web_sm",
+    "fr": "fr_core_news_sm"
+}
 
 
 def run():
     parser = argparse.ArgumentParser(description='Process and summarize lectures')
     parser.add_argument('-path', dest='path', default=None, help='File path of lecture')
+    parser.add_argument('-lang', dest='lang', default='en', help='Language supported : en,fr')
     parser.add_argument('-model', dest='model', default='bert-large-uncased', help='')
     parser.add_argument('-num-sentences', dest='num_sentences', default=-1, help='Will return X sentences')
     parser.add_argument('-ratio', dest='ratio', default=-1, help='Will return a ratio of sentences from the text length (0.2 is a good value)')
@@ -19,10 +27,12 @@ def run():
     with open(args.path) as d:
         text_data = d.read()
 
+    spacy_model = sentence_handlers[args.lang]
     model = Summarizer(
         model=args.model,
         hidden=args.hidden,
-        reduce_option=args.reduce_option
+        reduce_option=args.reduce_option,
+        sentence_handler=CoreferenceHandler(spacy_model=spacy_model)
     )
     
     if int(args.num_sentences) >= 0:

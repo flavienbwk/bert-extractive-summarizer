@@ -1,12 +1,16 @@
 from typing import List
 
 from spacy.lang.en import English
+from spacy.lang.fr import French
 
 
 class SentenceHandler(object):
 
-    def __init__(self, language=English):
-        self.nlp = language()
+    def __init__(self, lang=English):
+        if lang == "fr":
+            self.nlp = French()
+        else:
+            self.nlp = English()
         self.nlp.add_pipe(self.nlp.create_pipe('sentencizer'))
 
     def process(self, body: str, min_length: int = 40, max_length: int = 600) -> List[str]:

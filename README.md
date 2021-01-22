@@ -177,8 +177,17 @@ model(
 
 If don't want to redownload every time (or use offline) :
 
-1. Download the torch model `bert-large-uncased` at https://huggingface.co/bert-large-uncased/tree/main (`config.json`, `pytorch_model.bin`, `vocab.txt`, `tokenizer_config.json`)
-2. Place in under `models/bert-large-uncased/` directory
+1. Download the torch model `bert-large-uncased` at https://huggingface.co/bert-large-uncased/tree/main (`config.json`, `pytorch_model.bin`, `vocab.txt`, `tokenizer_config.json`). Place it under the `models/bert-large-uncased/` directory.
+2. Download the spacy models :
+
+    ```bash
+    mkdir models/spacy
+    cd models/spacy
+    wget https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.3.1/en_core_web_sm-2.3.1.tar.gz
+    wget https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-2.3.0/fr_core_news_sm-2.3.0.tar.gz
+    cd ..
+    ```
+
 3. Set the text you want to summarize in `example.txt`
 4. Run :
 

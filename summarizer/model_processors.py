@@ -40,6 +40,7 @@ class ModelProcessor(object):
         CoreferenceHandler instance
         :param random_state: The random state to reproduce summarizations.
         :param hidden_concat: Whether or not to concat multiple hidden layers.
+        :param lang: Language of the target text.
         """
 
         np.random.seed(random_state)

@@ -23,3 +23,9 @@ WORKDIR /opt/service
 
 RUN pip3 install --upgrade pip
 RUN pip3 install -r requirements.txt
+
+# Installing spacy models
+COPY ./models/spacy/en_core_web_sm-2.3.1.tar.gz /en_core_web_sm-2.3.1.tar.gz
+RUN python3 -m pip install /en_core_web_sm-2.3.1.tar.gz
+COPY ./models/spacy/fr_core_news_sm-2.3.0.tar.gz /fr_core_news_sm-2.3.0.tar.gz
+RUN python3 -m pip install /fr_core_news_sm-2.3.0.tar.gz

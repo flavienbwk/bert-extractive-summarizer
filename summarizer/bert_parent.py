@@ -13,6 +13,7 @@ class BertParent(object):
     """
 
     MODELS = {
+        'local-camembert-base': (CamembertModel, CamembertTokenizer),
         'local-bert-large-uncased': (BertModel, BertTokenizer),
         'bert-base-uncased': (BertModel, BertTokenizer),
         'bert-large-uncased': (BertModel, BertTokenizer),
@@ -43,6 +44,7 @@ class BertParent(object):
             self.model = custom_model.to(self.device)
         else:
             model = "/opt/models/bert-large-uncased/" if model == "local-bert-large-uncased" else model
+            model = "/opt/models/camembert-base/" if model == "local-camembert-base" else model
             self.model = base_model.from_pretrained(model, output_hidden_states=True).to(self.device)
 
         if custom_tokenizer:
