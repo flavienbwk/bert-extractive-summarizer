@@ -13,7 +13,7 @@ class BertParent(object):
     """
 
     MODELS = {
-        '/opt/models/bert-large-uncased/': (BertModel, BertTokenizer),
+        'local-bert-large-uncased': (BertModel, BertTokenizer),
         'bert-base-uncased': (BertModel, BertTokenizer),
         'bert-large-uncased': (BertModel, BertTokenizer),
         'xlnet-base-cased': (XLNetModel, XLNetTokenizer),
@@ -42,6 +42,7 @@ class BertParent(object):
         if custom_model:
             self.model = custom_model.to(self.device)
         else:
+            model = "/opt/models/bert-large-uncased/" if model == "local-bert-large-uncased" else model
             self.model = base_model.from_pretrained(model, output_hidden_states=True).to(self.device)
 
         if custom_tokenizer:

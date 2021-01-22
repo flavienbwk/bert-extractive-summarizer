@@ -6,7 +6,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile.gpu
-    command: python3 /opt/service/summarize.py -model /opt/models/bert-large-uncased/ -path /opt/example.txt
+    command: python3 /opt/service/summarize.py -model local-bert-large-uncased -path /opt/example.txt
     volumes:
       - ./models:/opt/models:ro
       - ./summarize.py:/opt/service/summarize.py:ro
