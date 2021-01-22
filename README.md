@@ -191,6 +191,16 @@ docker build -t summary-service -f Dockerfile.service ./
 docker run --rm -it -p 5000:5000 summary-service:latest -model bert-large-uncased
 ```
 
+If don't want to redownload every time (or use offline) :
+
+1. Download the torch model `bert-large-uncased` at https://huggingface.co/bert-large-uncased/tree/main (`config.json`, `pytorch_model.bin`, `vocab.txt`, `tokenizer_config.json`)
+2. Place in under `models/bert-large-uncased/` directory
+3. Run :
+
+    ```bash
+    docker-compose up
+    ```
+
 Other arguments can also be passed to the server. Below includes the list of available arguments.
 
 * -greediness: Float parameter that determines how greedy nueralcoref should be

@@ -92,7 +92,7 @@ def convert_raw_text_by_sent():
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='')
-    parser.add_argument('-model', dest='model', default='bert-base-uncased', help='The model to use')
+    parser.add_argument('-model', dest='model', default='local-bert-large-uncased', help='The model to use')
     parser.add_argument('-transformer-type',
                         dest='transformer_type', default=None,
                         help='Huggingface transformer class key')
@@ -126,4 +126,4 @@ if __name__ == '__main__':
             reduce_option=args.reduce
         )
 
-    app.run(host=args.host, port=int(args.port))
+    app.run(host=args.host, port=int(args.port), debug=True)

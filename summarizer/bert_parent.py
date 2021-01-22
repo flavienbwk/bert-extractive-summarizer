@@ -13,6 +13,7 @@ class BertParent(object):
     """
 
     MODELS = {
+        '/opt/models/bert-large-uncased/': (BertModel, BertTokenizer),
         'bert-base-uncased': (BertModel, BertTokenizer),
         'bert-large-uncased': (BertModel, BertTokenizer),
         'xlnet-base-cased': (XLNetModel, XLNetTokenizer),

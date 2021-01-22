@@ -133,3 +133,6 @@ share
 _build
 _static
 _templates
+
+models/*
+!models/.gitkeep
